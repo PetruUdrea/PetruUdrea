@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PetruUdrea
-- 👀 I’m interested in Software Engineering and Web Development
+- 👀 I’m interested in Software Engineering, Web Development and Embedded Systems
 - 🌱 I’m currently learning Data Analysis in Python and Web Development
 - 👨‍🎓 I’m currently a student at the Polytechnic University of Bucharest in my first Master's Degree year within the Faculty of Automation and Computer Science
 - 📫 My email adress is: pita.udrea@yahoo.com
